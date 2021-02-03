@@ -1,7 +1,7 @@
 {
   "name": "ujian-backend-1504",
   "version": "1.0.0",
-  "description": "",
+  "description": "![purwadhika](https://dm2302files.storage.live.com/y4mXzhUZVMNL_p9tVgW1HqlEUJa6ppyVCfKnxxFC4x5nfuSs_-NnMTSOFdPq6MIGrxKEZW8uGWVreQ9awWZboO6NydIZpac87UZ48QL0Y40HZv-uJOAAqVADo9m_ZBZ5ThfKAaFnCabsFufrOnkmjwdWVsaFcPVmaha7sQOlW0jmQwbbEGmbVih8UC2ouXKKdRs?width=256&height=39&cropmode=none)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +12,19 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "cryptojs": "^2.5.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndhikaJeremia/ujian-backend-1504.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndhikaJeremia/ujian-backend-1504/issues"
+  },
+  "homepage": "https://github.com/AndhikaJeremia/ujian-backend-1504#readme"
 }
